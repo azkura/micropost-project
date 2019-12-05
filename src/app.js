@@ -4,6 +4,8 @@ import { ui } from './ui';
 // Get Posts on DOM load
 document.addEventListener('DOMContentLoaded', getPosts);
 
+// Listen for add posts
+
 function getPosts() {
   http
     .get('http://localhost:3000/posts')
