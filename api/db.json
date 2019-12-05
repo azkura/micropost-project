@@ -19,16 +19,6 @@
       "title": "post four",
       "body": "this is post four",
       "id": 4
-    },
-    {
-      "title": "new book",
-      "body": "i buy a new book today",
-      "id": 5
-    },
-    {
-      "title": "collector",
-      "body": "this is a collector one",
-      "id": 6
     }
   ]
 }
