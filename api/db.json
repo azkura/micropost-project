@@ -1,7 +1,34 @@
 {
   "posts": [
-    { "id": 1, "title": "Post one", "body": "this is post one" },
-    { "id": 2, "title": "Post two", "body": "this is post two" },
-    { "id": 3, "title": "Post three", "body": "this is post three" }
+    {
+      "id": 1,
+      "title": "Post one",
+      "body": "this is post one"
+    },
+    {
+      "id": 2,
+      "title": "Post two",
+      "body": "this is post two"
+    },
+    {
+      "id": 3,
+      "title": "Post three",
+      "body": "this is post three"
+    },
+    {
+      "title": "post four",
+      "body": "this is post four",
+      "id": 4
+    },
+    {
+      "title": "new book",
+      "body": "i buy a new book today",
+      "id": 5
+    },
+    {
+      "title": "collector",
+      "body": "this is a collector one",
+      "id": 6
+    }
   ]
 }
